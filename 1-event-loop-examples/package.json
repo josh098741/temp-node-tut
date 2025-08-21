@@ -1,0 +1,16 @@
+{
+  "name": "1-event-loop-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-read-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon 4-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
